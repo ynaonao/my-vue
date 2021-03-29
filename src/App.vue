@@ -2,14 +2,14 @@
   <div id="app">
     <!-- <img src="./assets/logo.png"> -->
     <!-- 显示当前路由地址对应的内容 -->
-    <router-view/>
+    <!-- <router-view/> -->
   </div>
 </template>
 
 <script>
-export default {
-  name: 'App'
-}
+// export default {
+//   name: 'App'
+// }
 </script>
 
 <style>
